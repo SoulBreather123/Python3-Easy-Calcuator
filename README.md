@@ -1,2 +1,1 @@
-# Python3 Easy Calcuator
- My first Python3 Calcuator!
+This calcuator is my first Python3 Calcuator.I know its not professional please dont argue to me :)
